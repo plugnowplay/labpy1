@@ -87,9 +87,4 @@ Lalu klik tombol Create repository
 
 ![15](https://user-images.githubusercontent.com/115965039/196100260-b9f8f089-ff25-4a68-b258-f62ea0ce99ea.png)
 
- 
-### 16.	Hasilnya pada server repository 
-
-![16](https://user-images.githubusercontent.com/115965039/196100269-75be7d21-be8b-48a3-b4d5-021faf20422d.png)
-
 
